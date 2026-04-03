@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Rahul Raj Jaiswal
 
-<!--
-**Rahul130405/Rahul130405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🎓 Student at Chandigarh University
+- 💻 Interested in Web Development & DSA
+- 🚀 Building real-world projects
+- 📈 Currently learning: React & Node.js
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: C++, Java, Python
+- 🌐 Web: HTML, CSS, JavaScript, React
+- ⚙️ Tools: Git, VS Code
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul130405&show_icons=true&theme=radical)
+
+---
+
+## 🚀 Projects
+- 🔹 
+- 🔹
+- 🔹 
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [rahulrajjaiswal](https://www.linkedin.com/in/rahulrajjaiswal/)
+- Email: yashckp@gmal.com
+
+---
+
+⭐ *"Consistency beats talent"*
