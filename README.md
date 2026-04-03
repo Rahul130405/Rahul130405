@@ -22,14 +22,6 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul130405&show_icons=true&theme=radical)
 
----
-
-## 🚀 Projects
-- 🔹 
-- 🔹
-- 🔹 
-
----
 
 ## 📫 Connect With Me
 - LinkedIn: [rahulrajjaiswal](https://www.linkedin.com/in/rahulrajjaiswal/)
