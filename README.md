@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 # Hi 👋, I'm Rahul Raj Jaiswal
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Welcome+to+my+GitHub;Full+Stack+Developer;DSA+Learner)
 🚀 Aspiring Software Developer | Tech Enthusiast
 
 ---
