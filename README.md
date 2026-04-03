@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 # Hi 👋, I'm Rahul Raj Jaiswal
 
 🚀 Aspiring Software Developer | Tech Enthusiast
