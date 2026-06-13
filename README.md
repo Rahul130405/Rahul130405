@@ -62,7 +62,7 @@ Machine Learning Developer | Full Stack Developer | Problem Solver
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rahulrajjaiswal/">
+<a href="https://www.linkedin.com/in/rahulrajjaiswal/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -70,11 +70,10 @@ Machine Learning Developer | Full Stack Developer | Problem Solver
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/Rahul130405">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://leetcode.com/u/SShItZbD7e/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 </p>
-
 ---
 
 ### 💡 Motto
