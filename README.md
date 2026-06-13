@@ -49,11 +49,11 @@ DSA, and real-world software engineering.
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-<br><br><br>
+<br><br>
 
-<p align="center">
+<sub>
 OpenCV • Scikit-Learn • Transformers • NLP • LangChain • FAISS • Deep Learning
-</p>
+</sub>
 
 <br><br>
 
