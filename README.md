@@ -102,35 +102,7 @@ DSA • OOP • DBMS • Operating Systems • Computer Networks
 
 ---
 
-<div align="center">
-
-<table align="center">
-<tr>
-<td align="center">
-
-<h3>COSMIC PRESENCE</h3>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge" />
-</a>
-
-<br><br>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-2962FF?style=for-the-badge" />
-</a>
-
-<br><br>
-
-<a href="YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge" />
-</a>
-
-</td>
-
-<td width="50"></td>
-
-<td align="center">
+### 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rahulrajjaiswal/" target="_blank">
