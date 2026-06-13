@@ -100,35 +100,48 @@ DSA • OOP • DBMS • Operating Systems • Computer Networks
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul130405&layout=compact&theme=tokyonight"/>
 </p>
 
----
+
 
 ---
 
----
-
-### 🤝 Let's Connect
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahulrajjaiswal/">
-    <img src="https://skillicons.dev/icons?i=linkedin" border="0"/>
-  </a>
+────────────────────────────────────────
+</p>
 
-     
+<p align="center">
+<a href="https://www.linkedin.com/in/rahulrajjaiswal/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="70" />
+</a>
 
-  <a href="mailto:yashckp@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" border="0"/>
-  </a>
+        
 
-     
+<a href="mailto:yashckp@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="70" />
+</a>
 
-  <a href="https://leetcode.com/u/SShItZbD7e/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
-  </a>
+        
+
+<a href="https://leetcode.com/u/SShItZbD7e/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="70" />
+</a>
 </p>
 
 <br>
 
+<h3 align="center">💡 Motto</h3>
+
 <p align="center">
-<i>"Turning ideas into intelligent solutions."</i>
+<i>
+"Strive for progress, not perfection."
+</i>
 </p>
+
+<p align="center">
+Every day, a step closer to the best version of me.
+</p>
+
+---
+
 
