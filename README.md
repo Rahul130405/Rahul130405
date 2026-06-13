@@ -73,7 +73,6 @@ OpenCV • Scikit-Learn • Transformers • NLP • LangChain • FAISS • Dee
 DSA • OOP • DBMS • Operating Systems • Computer Networks
 
 </div>
----
 
 ### 🚀 Featured Projects
 
