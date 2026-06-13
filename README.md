@@ -104,34 +104,6 @@ DSA • OOP • DBMS • Operating Systems • Computer Networks
 
 <div align="center">
 
-<h2 align="center">🌌 CONNECT WITH ME</h2>
-
-<table align="center">
-<tr>
-<td align="center">
-
-### COSMIC PRESENCE
-
-<a href="https://www.linkedin.com/in/rahulrajjaiswal/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/Rahul130405">
-<img src="https://img.shields.io/badge/GITHUB-PORTFOLIO-24292E?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<a href="https://leetcode.com/u/SShItZbD7e/">
-<img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td align="center">
-
 <table align="center">
 <tr>
 <td align="center">
@@ -181,8 +153,6 @@ DSA • OOP • DBMS • Operating Systems • Computer Networks
 </td>
 </tr>
 </table>
-
-
 
 ### 💡 Motto
 
