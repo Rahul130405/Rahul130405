@@ -107,28 +107,24 @@ DSA • OOP • DBMS • Operating Systems • Computer Networks
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-────────────────────────────────────────
+
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/rahulrajjaiswal/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="70" />
-</a>
+<div align="center">
 
-        
+<a href="https://www.linkedin.com/in/rahulrajjaiswal/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+</a>
 
 <a href="mailto:yashckp@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="70" />
+<img src="https://skillicons.dev/icons?i=gmail" width="55" />
 </a>
-
-        
 
 <a href="https://leetcode.com/u/SShItZbD7e/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="70" />
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55" />
 </a>
-</p>
 
-<br>
+</div>
 
 <h3 align="center">💡 Motto</h3>
 
