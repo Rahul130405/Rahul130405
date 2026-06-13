@@ -132,28 +132,19 @@ DSA • OOP • DBMS • Operating Systems • Computer Networks
 
 <td align="center">
 
-<h3>CONNECT WITH ME</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rahulrajjaiswal/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 <a href="mailto:yashckp@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<br><br>
-
-<a href="https://github.com/Rahul130405">
-<img src="https://img.shields.io/badge/GITHUB-PROJECTS-181717?style=for-the-badge" />
+<a href="https://leetcode.com/u/SShItZbD7e/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/rahulrajjaiswal/">
-<img src="https://img.shields.io/badge/LINKEDIN-FOLLOW-0A66C2?style=for-the-badge" />
-</a>
-
-</td>
-</tr>
-</table>
-
+</p>
 ### 💡 Motto
 
 > "Consistency beats talent."
