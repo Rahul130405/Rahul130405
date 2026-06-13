@@ -102,25 +102,25 @@ DSA • OOP • DBMS • Operating Systems • Computer Networks
 
 ---
 
-<h2 align="center">🚀 Connect With Me</h2>
+<div align="center">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/rahulrajjaiswal/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+### 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/rahulrajjaiswal/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:yashckp@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/SShItZbD7e/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" />
 </a>
 
-<a href="https://leetcode.com/u/SShItZbD7e/" target="_blank">
-  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48" height="48"/>
-</a>
-
-<a href="https://github.com/Rahul130405" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+</div>
 ### 🚀 Thanks for visiting my profile!
 
 *"Consistency beats talent when talent doesn't stay consistent."*
