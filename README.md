@@ -109,21 +109,26 @@ DSA • OOP • DBMS • Operating Systems • Computer Networks
 ### 🤝 Let's Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rahulrajjaiswal/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/rahulrajjaiswal/">
+    <img src="https://skillicons.dev/icons?i=linkedin" border="0"/>
+  </a>
 
-<a href="mailto:yashckp@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+     
 
-<a href="https://leetcode.com/u/SShItZbD7e/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" />
-</a>
+  <a href="mailto:yashckp@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" border="0"/>
+  </a>
+
+     
+
+  <a href="https://leetcode.com/u/SShItZbD7e/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
+  </a>
 </p>
+
+<br>
 
 <p align="center">
-Machine Learning • Full Stack Development • Problem Solving
+<i>"Turning ideas into intelligent solutions."</i>
 </p>
 
----
