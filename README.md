@@ -102,32 +102,25 @@ DSA • OOP • DBMS • Operating Systems • Computer Networks
 
 ---
 
-## 🌌 CONNECT WITH ME
+<h2 align="center">🚀 Connect With Me</h2>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/rahulrajjaiswal/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/rahulrajjaiswal/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:yashckp@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://leetcode.com/u/SShItZbD7e/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/SShItZbD7e/" target="_blank">
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48" height="48"/>
 </a>
 
-<a href="https://github.com/Rahul130405">
-<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Rahul130405" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
 </p>
-
----
-
-<div align="center">
-
 ### 🚀 Thanks for visiting my profile!
 
 *"Consistency beats talent when talent doesn't stay consistent."*
