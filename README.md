@@ -132,22 +132,50 @@ DSA • OOP • DBMS • Operating Systems • Computer Networks
 
 <td align="center">
 
-### CONNECT WITH ME
+<table align="center">
+<tr>
+<td align="center">
+
+<h3>COSMIC PRESENCE</h3>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-2962FF?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<a href="YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge" />
+</a>
+
+</td>
+
+<td width="50"></td>
+
+<td align="center">
+
+<h3>CONNECT WITH ME</h3>
 
 <a href="mailto:yashckp@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Rahul130405">
-<img src="https://img.shields.io/badge/GITHUB-PROJECTS-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GITHUB-PROJECTS-181717?style=for-the-badge" />
 </a>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/rahulrajjaiswal/">
-<img src="https://img.shields.io/badge/LINKEDIN-FOLLOW-0077B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FOLLOW-0A66C2?style=for-the-badge" />
 </a>
 
 </td>
