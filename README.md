@@ -45,15 +45,14 @@ DSA, and real-world software engineering.
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,django,fastapi,tailwind" />
 
 <br><br>
+
 ### 🤖 AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
 <br><br>
 
-<sub>
 OpenCV • Scikit-Learn • Transformers • NLP • LangChain • FAISS • Deep Learning
-</sub>
 
 <br><br>
 
