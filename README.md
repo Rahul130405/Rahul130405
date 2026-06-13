@@ -24,69 +24,55 @@ Machine Learning Developer | Full Stack Developer | Problem Solver
 ---
 
 ### ⚡ Tech Stack
+<div align="center">
+
 ## ⚔️ MASTERING THE ARCANE ARTS ⚔️
 
-<p align="center">
 Computer Science undergraduate specializing in Machine Learning and Full Stack Development.
 Building AI-powered applications using modern technologies while exploring scalable systems,
 DSA, and real-world software engineering.
-</p>
 
 <br>
 
 ### ✨ Languages
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript" />
-</p>
 
-<br>
+<br><br>
 
 ### ⚡ Full Stack Development
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,django,fastapi,tailwind" />
-</p>
 
-<br>
+<br><br>
 
 ### 🤖 AI / Machine Learning
 
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-</p>
-
-<p align="center">
-OpenCV • Scikit-Learn • Transformers • NLP • LangChain • FAISS • Deep Learning
-</p>
-
 <br>
+
+OpenCV • Scikit-Learn • Transformers • NLP • LangChain • FAISS • Deep Learning
+
+<br><br>
 
 ### 🗄️ Databases
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
 
-<br>
+<br><br>
 
 ### 🛠️ Tools & Platforms
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-</p>
 
-<br>
+<br><br>
 
 ### 📚 Core Computer Science
 
-<p align="center">
 DSA • OOP • DBMS • Operating Systems • Computer Networks
-</p>
 
-
+</div>
 ---
 
 ### 🚀 Featured Projects
