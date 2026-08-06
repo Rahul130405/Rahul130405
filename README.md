@@ -1,143 +1,322 @@
 ![Banner](./banner.png)
+
 <h1 align="center">Hi 👋, I'm Rahul Raj Jaiswal</h1>
 
 <h3 align="center">
-Machine Learning Developer | Full Stack Developer | Problem Solver
+Full Stack Developer • Machine Learning Engineer • Building AI-Powered Products
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;Full+Stack+Developer;Building+AI+Powered+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Engineer;Building+AI-Powered+Products;React+%7C+Node.js+%7C+FastAPI+%7C+GenAI;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Machine%20Learning-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Currently-StartIQOS%20AI-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-orange?style=for-the-badge"/>
+
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Computer Science Student at Chandigarh University
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🌐 Full Stack Developer
-- 🚀 Building real-world AI applications
-- 🧩 Solved 200+ DSA problems
-- 🏆 Winner of Tekathon 4.0
-- 🥈 Rank 6 at IIT Roorkee National Social Summit
+🎓 Computer Science Undergraduate at **Chandigarh University**
 
----
+💼 Full Stack Development Intern at **StartIQOS AI**
 
-### ⚡ Tech Stack
-<div align="center">
+🚀 Joint Secretary at **TokenTitan Club**
 
-## ⚔️ MASTERING THE ARCANE ARTS ⚔️
+🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Generative AI**
 
-Computer Science undergraduate specializing in Machine Learning and Full Stack Development.
-Building AI-powered applications using modern technologies while exploring scalable systems,
-DSA, and real-world software engineering.
+🌐 Building scalable Full Stack applications using **React**, **Next.js**, **Node.js**, and **FastAPI**
 
-<br>
+📄 Experienced in **RAG Applications**, **LangChain**, **FAISS**, **Computer Vision**, and **Document Intelligence**
 
-### ✨ Languages
+🔐 Exploring **Cybersecurity** and **Ethical Hacking**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript" />
+🧩 Solved **200+ DSA Problems**
 
-<br><br>
+🏆 Winner of **Tekathon 4.0**
 
-### ⚡ Full Stack Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,django,fastapi,tailwind" />
-
-<br><br>
-
-### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-<br><br>
-
-OpenCV • Scikit-Learn • Transformers • NLP • LangChain • FAISS • Deep Learning
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-
-<br><br>
-
-### 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-
-<br><br>
-
-### 📚 Core Computer Science
-
-DSA • OOP • DBMS • Operating Systems • Computer Networks
-
-</div>
-
-### 🚀 Featured Projects
-
-🔹 **Pneumonia Detection using Swin Transformer**
-> Deep Learning model achieving 95.83% accuracy
-
-🔹 **InsightPDF**
-> RAG-based document intelligence system using LangChain & FAISS
-
-🔹 **ChainVote**
-> Secure blockchain-inspired voting platform
-
-🔹 **QuizEngine**
-> Adaptive quiz platform with real-time leaderboard
-
-🔹 **AI Groundwater Chatbot**
-> NLP-powered information retrieval system
+🥈 Rank **6** at **IIT Roorkee National Social Summit**
 
 ---
 
-### 📈 GitHub Analytics
+# 🚀 Currently Working On
+
+- 💻 Full Stack Development @ **StartIQOS AI**
+- 🤖 AI Startup Operating System
+- 📄 AI Document Intelligence Systems
+- 🌐 Modern Full Stack Applications
+- 📚 Advanced Data Structures & Algorithms
+
+---
+
+# 🌱 Currently Learning
+
+- System Design
+- Docker
+- PostgreSQL
+- AWS
+- AI Agents
+- Advanced Backend Engineering
+
+---
+
+# ⚡ Tech Stack
+
+## 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=typescript"/>
+
+</p>
+
+---
+
+## 🌐 Full Stack Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=django"/>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+</p>
+
+**OpenCV • Scikit-Learn • Transformers • LangChain • FAISS • NLP • Deep Learning • Computer Vision**
+
+---
+
+## 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+</p>
+
+---
+
+## 🔐 Cybersecurity
+
+**Kali Linux • Nmap • Metasploit • Burp Suite • Network Security • Ethical Hacking**
+
+---
+
+## 🛠️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+</p>
+
+---
+
+## 📚 Core Computer Science
+
+**Data Structures & Algorithms**
+
+**Object-Oriented Programming**
+
+**Database Management Systems**
+
+**Operating Systems**
+
+**Computer Networks**
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 EduBits
+
+Student learning platform integrating **PYQs, Notes, Quizzes, Authentication, and Academic Productivity Tools**.
+
+**Tech Stack**
+
+Next.js • TypeScript • Tailwind CSS
+
+---
+
+## 🤖 StartIQOS AI
+
+Worked as a **Full Stack Development Intern** building an AI-powered Startup Operating System with scalable frontend and backend modules.
+
+**Tech Stack**
+
+React • TypeScript • Node.js • Express.js
+
+---
+
+## 🩺 Pneumonia Detection using Swin Transformer
+
+Vision Transformer based medical image classification model achieving **95.83% Accuracy**.
+
+**Tech Stack**
+
+Python • PyTorch • OpenCV
+
+---
+
+## 📄 InsightPDF
+
+AI-powered Document Intelligence System using **Retrieval-Augmented Generation (RAG)**.
+
+**Tech Stack**
+
+LangChain • FAISS • FastAPI
+
+---
+
+## 🔗 ChainVote
+
+Blockchain-inspired secure digital voting platform using **AES-256 Encryption** and **SHA-256 Hashing**.
+
+---
+
+## 💧 AI Groundwater Chatbot
+
+NLP-powered chatbot for groundwater information retrieval.
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul130405&show_icons=true&theme=tokyonight"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul130405&layout=compact&theme=tokyonight"/>
+
 </p>
-
-
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+# 🔥 GitHub Streak
 
 <p align="center">
 
+<img src="https://streak-stats.demolab.com?user=Rahul130405&theme=tokyonight"/>
+
 </p>
 
-<div align="center">
+---
 
-<a href="https://www.linkedin.com/in/rahulrajjaiswal/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul130405&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul130405&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rahulrajjaiswal">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 <a href="mailto:yashckp@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55" />
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+<a href="https://github.com/Rahul130405">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 <a href="https://leetcode.com/u/SShItZbD7e/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55" />
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55"/>
 </a>
 
-</div>
-
-<h3 align="center">💡 Motto</h3>
-
-<p align="center">
-<i>
-"Strive for progress, not perfection."
-</i>
-</p>
-
-<p align="center">
-Every day, a step closer to the best version of me.
 </p>
 
 ---
 
+# 💡 Motto
 
+<p align="center">
+
+> **"Success is built one commit at a time."**
+
+> *Learn • Build • Share • Repeat*
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Rahul130405&style=for-the-badge&color=blue"/>
+
+</p>
