@@ -252,18 +252,6 @@ NLP-powered chatbot for groundwater information retrieval.
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul130405&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul130405&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -284,15 +272,6 @@ NLP-powered chatbot for groundwater information retrieval.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul130405&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
