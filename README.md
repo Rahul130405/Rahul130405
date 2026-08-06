@@ -24,6 +24,21 @@ Full Stack Developer • Machine Learning Engineer • Building AI-Powered Produ
 
 ---
 
+# 🌐 Portfolio
+
+> **Explore my portfolio to see projects, experience, skills, and achievements.**
+
+🔗 **Live Website:** https://rrj-portfolio.vercel.app/
+
+<p align="center">
+
+<a href="https://rrj-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Visit%20Portfolio-Live%20Demo-blue?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
 # 👨‍💻 About Me
 
 🎓 Computer Science Undergraduate at **Chandigarh University**
