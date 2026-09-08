@@ -260,13 +260,6 @@ NLP-powered chatbot for groundwater information retrieval.
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul130405&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
----
-
 
 # 🌐 Connect With Me
 
