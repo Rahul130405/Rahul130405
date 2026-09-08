@@ -255,9 +255,7 @@ NLP-powered chatbot for groundwater information retrieval.
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rahul130405&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Rahul130405&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -265,11 +263,8 @@ NLP-powered chatbot for groundwater information retrieval.
 # 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul130405&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul130405&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
-
 ---
 
 
